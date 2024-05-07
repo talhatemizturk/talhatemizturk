@@ -50,8 +50,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=talhatemizturk&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhatemizturk&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=talhatemizturk"><p>
+![](https://github-readme-stats.vercel.app/api?username=talhatemizturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=talhatemizturk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhatemizturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
